@@ -1,3 +1,4 @@
+-- lesson 1
 doubleMe x =
   x + x
 
